@@ -60,9 +60,7 @@ Create free, ethical, open technology for learning and system exploration
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shk-Hamza&show_icons=true&theme=tokyonight&hide_border=true" width="420"/><br>
 <img src="https://nirzak-streak-stats.vercel.app/?user=Shk-Hamza&theme=dark&hide_border=false" width="420"/><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shk-Hamza&theme=tokyonight&hide_border=true&layout=compact" width="420"/>
 </div>
 
 ---
