@@ -2,20 +2,17 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Hamza%20(Shk-Hamza)&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=Cybersecurity%20%7C%20Linux%20%7C%20Open-Source&descAlignY=55&descSize=19"/> 
 </div>
 
-<!-- START ANIMATION -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=35&weight=700&center=true&vCenter=true&color=00F700&width=600&height=70&duration=4000&lines=Ethical+Cybersecurity+Tools;Kali+Linux+%2B+Termux+Projects;Open-Source+Automation;Pixel-Perfect+Graphics" />
 </p>
 
 <div align="center">
+
 # 💫 About Me:
 Hey there! I'm Hamza — also known as **Shk-Hamza**, a tech enthusiast and self-taught developer passionate about **cybersecurity, Linux, and open-source tools**.
 
 I love exploring systems like **Kali Linux, Termux, and UserLAnd**, and I enjoy creating projects that are simple, stable, and useful for everyone.
+
 </div>
 
 <br>
@@ -66,6 +63,7 @@ To create free, open, and secure tech that inspires learning and helps others ge
 </div>
 
 <div align="center">
+
 ## **Core Tech** 🛡️
 <p>
   <img src="https://skillicons.dev/icons?i=c,html,linux,terminal&theme=dark" />
@@ -86,11 +84,14 @@ To create free, open, and secure tech that inspires learning and helps others ge
 <p>
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Now%20Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)
 </p>
 
-<p>![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)</p>
+<p>
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+</p>
+
 </div>
 
 <br>
@@ -104,12 +105,17 @@ To create free, open, and secure tech that inspires learning and helps others ge
 
 <br>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br>
+
 ### ✍️ Dev Quote
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code+hack+learn+repeat+%E2%80%94+the+cybersecurity+journey&author=Hamza" />
 </div>
 
-<!-- END ANIMATION (matching start) -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
