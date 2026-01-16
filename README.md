@@ -61,31 +61,38 @@ To create free, open, and secure tech that inspires learning and helps others ge
 </div>
 
 <div align="center">
-## Core Tech 🛡️
-<img src="https://skillicons.dev/icons?i=c,html,linux,terminal&theme=dark" /><br>
-<img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 
-## Cloud & Deploy ☁️
-<img src="https://skillicons.dev/icons?i=cloudflare,netlify,firebase,googlecloud&theme=dark" />
+**Core Tech** 🛡️  
+<img src="https://skillicons.dev/icons?i=c,html,linux,terminal&theme=dark" width="220" /><br>
+<img src="https://img.shields.io/badge/Windows_Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" width="180" />
 
-## Design Suite 🎨
-<img src="https://skillicons.dev/icons?i=adobe,figma,canva,sketch,photoshop,xd&theme=dark" />
+<br><br>
 
-## Video & Creative
-<img src="https://img.shields.io/badge/After%20Effects-9999FF.svg?style=for-the-badge&logo=aftereffects&logoColor=white" />
-<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=premierepro&logoColor=white" />
-<img src="https://img.shields.io/badge/Lightroom-31A8FF.svg?style=for-the-badge&logo=lightroom&logoColor=white" />
-<img src="https://img.shields.io/badge/Dreamweaver-FF61F6.svg?style=for-the-badge&logo=dreamweaver&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+**Cloud** ☁️  
+<img src="https://skillicons.dev/icons?i=cloudflare,netlify,firebase,googlecloud&theme=dark" width="280" />
+
+<br><br>
+
+**Design** 🎨  
+<img src="https://skillicons.dev/icons?i=adobe,figma,canva,sketch,photoshop,xd&theme=dark" width="360" />
+
+<br><br>
+
+**Creative Tools**  
+<img src="https://img.shields.io/badge/After_Effects-9999FF.svg?style=for-the-badge&logo=aftereffects&logoColor=white" width="140" />
+<img src="https://img.shields.io/badge/Premiere_Pro-9999FF.svg?style=for-the-badge&logo=premierepro&logoColor=white" width="140" /><br>
+<img src="https://img.shields.io/badge/Lightroom-31A8FF.svg?style=for-the-badge&logo=lightroom&logoColor=white" width="120" />
+<img src="https://img.shields.io/badge/Dreamweaver-FF61F6.svg?style=for-the-badge&logo=dreamweaver&logoColor=white" width="140" /><br>
+<img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" width="160" />
 </div>
 
-<br>
+<br><br>
 
 ## 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shk-Hamza&theme=white&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Shk-Hamza&theme=dark&hide_border=false" alt="Streak Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shk-Hamza&theme=white&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shk-Hamza&theme=white&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="450"/><br><br>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Shk-Hamza&theme=dark&hide_border=false" alt="Streak Stats" width="450"/><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shk-Hamza&theme=white&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="450"/>
 </div>
 
 <br>
