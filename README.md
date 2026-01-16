@@ -10,17 +10,20 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=35&weight=700&center=true&vCenter=true&color=00F700&width=600&height=70&duration=4000&lines=Ethical+Cybersecurity+Tools;Kali+Linux+%2B+Termux+Projects;Open-Source+Automation;Pixel-Perfect+Graphics" />
 </p>
 
-<div align="center">
-# 💫 About Me
-Hey there! I'm Hamza — also known as **Shk-Hamza**, a tech enthusiast and self-taught developer passionate about **cybersecurity, Linux, and open-source tools**.
+---
 
-I love exploring systems like **Kali Linux, Termux, and UserLAnd**, and I enjoy creating projects that are simple, stable, and useful for everyone.
+## 💫 About Me
+
+<div align="center">
+Hey there! I'm <strong>Hamza</strong> — also known as <strong>Shk-Hamza</strong>, a tech enthusiast and self-taught developer passionate about <strong>cybersecurity, Linux, and open-source tools</strong>.
+
+I enjoy exploring systems like <strong>Kali Linux, Termux, and UserLAnd</strong>, and creating tools that are simple, stable, and useful.
 </div>
 
 <br>
 
 <div align="center">
-<strong>💡 What I Do</strong><br>
+<strong>💡 What I Do</strong><br><br>
 ⚙️ Build ethical cybersecurity tools<br>
 💻 Linux automation & environments<br>
 🧠 Document practical solutions<br>
@@ -30,8 +33,8 @@ I love exploring systems like **Kali Linux, Termux, and UserLAnd**, and I enjoy 
 <br>
 
 <div align="center">
-<strong>🚀 Goals</strong><br>
-Create free, open tech for ethical hacking & system exploration
+<strong>🚀 Goal</strong><br><br>
+Create free, ethical, and open technology for learning and system exploration
 </div>
 
 <br>
@@ -44,45 +47,62 @@ Create free, open tech for ethical hacking & system exploration
 </picture>
 </div>
 
-<br>
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="https://instagram.com/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/>
+</a>
+
+<a href="mailto:example@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </div>
 
-<br>
+---
+
+## ⚡ Tech Stack
 
 <div align="center">
-<h3>⚡ Tech Stack</h3>
 
-<p><strong>Core Tech</strong> 🛡️</p>
-<img src="https://skillicons.dev/icons?i=c,html,linux,terminal&theme=dark&perline=4" /><br>
+<strong>Core Tech 🛡️</strong><br><br>
+<img src="https://skillicons.dev/icons?i=c,html,linux,terminal&theme=dark" /><br><br>
 
-<p><strong>Cloud</strong> ☁️</p>
-<img src="https://skillicons.dev/icons?i=cloudflare,netlify,firebase,googlecloud&theme=dark&perline=4" /><br>
+<strong>Cloud ☁️</strong><br><br>
+<img src="https://skillicons.dev/icons?i=cloudflare,netlify,firebase,googlecloud&theme=dark" /><br><br>
 
-<p><strong>Design</strong> 🎨</p>
-<img src="https://skillicons.dev/icons?i=adobe,figma,canva,photoshop,xd,sketch&theme=dark&perline=6" /><br>
+<strong>Design 🎨</strong><br><br>
+<img src="https://skillicons.dev/icons?i=figma,canva,photoshop,xd,sketch&theme=dark" /><br><br>
 
-<p><strong>Creative</strong></p>
+<strong>Creative</strong><br><br>
 <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=aftereffects&logoColor=white" />
-<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=premierepro&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=premierepro&logoColor=white" />
 <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=lightroom&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" />
+
 </div>
 
-<br>
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<h3>📊 Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Shk-Hamza&theme=white&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" width="420"/><br><br>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Shk-Hamza&theme=dark&hide_border=false" alt="Streak" width="420"/><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shk-Hamza&theme=white&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Languages" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shk-Hamza&show_icons=true&theme=tokyonight&hide_border=true" width="420"/><br><br>
+
+<img src="https://streak-stats.demolab.com?user=Shk-Hamza&theme=tokyonight&hide_border=true" width="420"/><br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shk-Hamza&layout=compact&theme=tokyonight&hide_border=true" width="420"/><br>
+
+<p><i>Stats may take a moment to load ⏳</i></p>
 </div>
 
-<br>
+---
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code+hack+learn+repeat—the+cybersecurity+journey&author=Hamza" />
