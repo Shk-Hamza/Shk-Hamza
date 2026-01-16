@@ -11,12 +11,10 @@
 </p>
 
 <div align="center">
-
 # 💫 About Me
 Hey there! I'm Hamza — also known as **Shk-Hamza**, a tech enthusiast and self-taught developer passionate about **cybersecurity, Linux, and open-source tools**.
 
 I love exploring systems like **Kali Linux, Termux, and UserLAnd**, and I enjoy creating projects that are simple, stable, and useful for everyone.
-
 </div>
 
 <br>
@@ -85,9 +83,9 @@ To create free, open, and secure tech that inspires learning and helps others ge
 
 ## 📊 GitHub Stats
 <div align="center">
-![](https://github-readme-stats.vercel.app/api?username=Shk-Hamza&theme=white&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Shk-Hamza&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shk-Hamza&theme=white&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=Shk-Hamza&theme=white&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Shk-Hamza&theme=dark&hide_border=false" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shk-Hamza&theme=white&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <br>
