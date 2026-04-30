@@ -7,7 +7,7 @@
 </div>
 
 - 🔥 **Tech Enthusiast & Self-Taught Developer** passionate about cybersecurity, Linux, and open-source tools
-- 💻 **Focused on Ethical Cybersecurity** exploring Kali Linux, Termux, and UserLAnd
+- 💻 **Focused on Ethical Cybersecurity** exploring Kali Linux, Termux, and More linux
 - 🎯 **Building Free, Open Technology** for learning and system exploration
 
 <div align="center">
